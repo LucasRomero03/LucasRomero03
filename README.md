@@ -36,6 +36,8 @@
 
 
 <br>
+<br>
+<br>
 
 
 
@@ -51,3 +53,4 @@
   <a href="https://www.instagram.com/lucasromeroc_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
 </div>
+![Snake animation](https://github.com/lucasromero03/lucasromero03/blob/output/github-contribution-grid-snake.svg)
