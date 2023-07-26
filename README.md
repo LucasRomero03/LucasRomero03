@@ -1,4 +1,4 @@
-<h1 align="center"> Olá! Eu me chamo Lucas Romero. Bem vindo ao meu perfil! 😎</h1>
+<h1 align="center"> Olá! Me chamo Lucas Romero. Bem vindo ao meu perfil! 😎</h1>
 
 
 
@@ -27,12 +27,13 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="right" height="120" width="160" src="https://media.giphy.com/media/fwzWJPb0fgZ5Vhfi2o/giphy.gif" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+   <img align="right" height="120" width="160" src="https://media.giphy.com/media/d9QiBcfzg64Io/giphy.gif"/>
+
+  <img align="right" height="120" width="160" src="https://media.giphy.com/media/fwzWJPb0fgZ5Vhfi2o/giphy.gif" />
 
 </div>
-
 
 
 <br>
@@ -53,4 +54,4 @@
   <a href="https://www.instagram.com/lucasromeroc_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
 </div>
-![Snake animation](https://github.com/lucasromero03/lucasromero03/blob/output/github-contribution-grid-snake.svg)
+
