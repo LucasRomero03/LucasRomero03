@@ -29,8 +29,7 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-   <img align="right" height="120" width="160" src="https://media.giphy.com/media/d9QiBcfzg64Io/giphy.gif"/>
-
+  <img align="right" height="120" width="160" src="https://media.giphy.com/media/d9QiBcfzg64Io/giphy.gif"/>
   <img align="right" height="120" width="160" src="https://media.giphy.com/media/fwzWJPb0fgZ5Vhfi2o/giphy.gif" />
 
 </div>
