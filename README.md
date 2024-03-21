@@ -2,7 +2,7 @@
 
 
 
-![DALL·E 2023-07-26 16 50 07 - a comicon of a black boy on your  gameroom using computer on the desk for coding](https://github.com/LucasRomero03/LucasRomero03/assets/88542920/a19628ee-e9dd-412b-ae7c-2b9557896825)
+
 
 
 
