@@ -7,9 +7,9 @@
 
 
 - 📚 Aluno de Engenharia da Computação pela Escola Politécnica da Universidade de Pernambuco.
-- 🔭 Atualmente estou no 7° Período e à proucura de oportunidades para ingressar no mercado de trabalho.
-- 🌱 Estou aprendendo Desenvolvimento web.
-- 🕹️ Amo jogar video games,praticar esportes e claro me aventurar no mundo dos códigos
+- 🔭 Engenheiro de software na Accenture.
+- 🌱 Estou me desenvolvendo no mundo SAP.
+- 🕹️ Amo jogar video games,praticar esportes e claro me aventurar no mundo dos códigos.
 - 🌌 Tenho o sonho de viajar o mundo e conhecer as diversas culturas nele presente.
 
 
